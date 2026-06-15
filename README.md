@@ -141,6 +141,14 @@ This project helped me learn:
 
 ---
 
+## Screen Shots
+
+<img width="955" height="410" alt="Screenshot 2026-06-15 145437" src="https://github.com/user-attachments/assets/f177864a-0f66-4f29-bbda-cea1bc9b0c5c" />
+
+<img width="959" height="412" alt="Screenshot 2026-06-15 145510" src="https://github.com/user-attachments/assets/ed270504-0bf9-4c16-aae6-49a74ba89336" />
+
+---
+
 ## Future Enhancements
 
 - URL Analytics Dashboard
